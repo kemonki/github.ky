@@ -28,6 +28,6 @@ pip install huga_package
     * Username: name
     * Password: password
 * 5.コマンドラインでサーバーを立ち上げることで、アプリケーションを立ち上げることができる
-  　 　* python3 manage.py runserver
+    *python3 manage.py runserver
 
 
