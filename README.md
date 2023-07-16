@@ -27,7 +27,7 @@ pip install huga_package
     * python3 manage.py createsuperuser
     * Username: name
     * Password: password
-* 5.コマンドラインでサーバーを立ち上げることで、アプリケーションを立ち上げることができる。
+* 5.コマンドラインでサーバーを立ち上げることで、アプリケーションを立ち上げることができます。
     * python3 manage.py runserver
 
 
