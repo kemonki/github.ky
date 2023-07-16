@@ -18,16 +18,16 @@ pip install huga_package
 
 # Usage
 
-* 1.このプロジェクトを Git クローンで作成します
+* 1.このプロジェクトを Git クローンで作成します。
 * 2.コマンドラインでフォルダ先のパスにアクセスしmekemigrationsを行う。
     * python3 manage.py makemigrations
 * 3.コマンドラインでフォルダ先のパスにアクセスしmigrateを行う。
     * python3 manage.py migrate
-* 4.コマンドラインでユーザー作成を行う
+* 4.コマンドラインでユーザー作成を行う。
     * python3 manage.py createsuperuser
     * Username: name
     * Password: password
-* 5.コマンドラインでサーバーを立ち上げることで、アプリケーションを立ち上げることができる
+* 5.コマンドラインでサーバーを立ち上げることで、アプリケーションを立ち上げることができる。
     * python3 manage.py runserver
 
 
