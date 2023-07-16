@@ -13,8 +13,7 @@
 "hoge"のセールスポイントや差別化などを説明する
 
 # Requirement
-
-"hoge"を動かすのに必要なライブラリなどを列挙する
+Django==4.2
 
 * huga 3.5.2
 * hogehuga 1.0.2
