@@ -13,11 +13,9 @@
 "hoge"のセールスポイントや差別化などを説明する
 
 # Requirement
-Python == 3.8.9
-Django == 4.2
 
-* huga 3.5.2
-* hogehuga 1.0.2
+* Python 3.8.9
+* Django 4.2
 
 # Installation
 
