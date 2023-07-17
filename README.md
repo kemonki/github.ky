@@ -8,13 +8,6 @@
 * Python 3.8.9
 * Django 4.2
 
-# Installation
-
-Requirementで列挙したライブラリなどのインストール方法を説明する
-
-```bash
-pip install huga_package
-```
 
 # Usage
 
